@@ -1,5 +1,4 @@
-// This program generates a table of Pythagorean triples
-// CS 2610 MICHAEL SIKORA 
+// This program generates a table of Pythagorean triples 
 
 #include<iostream>
 using namespace std; 
